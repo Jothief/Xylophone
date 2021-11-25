@@ -1,3 +1,3 @@
 "# Xylophone"
 
-![Снимок экрана (574)](https://user-images.githubusercontent.com/75679949/143447333-f0781992-82dd-48bb-82f6-8a3e391e8192.png)
+https://sun9-3.userapi.com/impg/1fHdVdSdI-1zChSxHAfuIdB5CkaVZBWCUtockQ/IAimMVLgzi4.jpg?size=1617x809&quality=96&sign=e32a3e56fa44ef42431a63a15b864c67&type=album
