@@ -1,4 +1,3 @@
 "# Xylophone"
 
-
-![Снимок экрана (605)](https://user-images.githubusercontent.com/75679949/141951794-04cbabe1-76ce-41f5-9b2f-e1736799b7da.png)
+![Снимок экрана (574)](https://user-images.githubusercontent.com/75679949/143447201-4f75aa02-7a07-40e4-a241-fa6cd28d4465.png)
